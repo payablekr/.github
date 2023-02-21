@@ -3,6 +3,6 @@
 내 주변 애플페이 가맹점 찾기
 </h1>
 
-[Go to download app (Under development)](https://payable.kr)
+[Join waitlist / 앱 다운로드 알림 받기](https://waitlist.payable.kr)
 
 Follow us on [twitter](https://twitter.com/payable_kr) and [instagram](https://instagram.com/payable.official).
